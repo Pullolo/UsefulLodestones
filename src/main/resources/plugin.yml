@@ -1,0 +1,5 @@
+name: UsefulLodestones
+version: '1'
+main: net.pullolo.usefulLodestones.UsefulLodestones
+api-version: '1.21'
+authors: [ Pullolo ]
